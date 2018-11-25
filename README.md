@@ -9,6 +9,7 @@ W projekcie znajduje się 3 pliki:
 
 Zadanie polega na dodaniu pliku JavaScript w odpowiednim miejscu w pliku html.
 Następnie za pomocą języka Javascript pobrać potrzebne elementy ze strony i wykonać akcję:
+(cały kod Javascript ma być zawarty w pliku script.js):
 - po kliknięciu w przycisk kolor diva powinien zmienić się z niebieskiego na czerwony.
 
 ## Zadanie 2
